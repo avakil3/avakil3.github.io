@@ -2950,6 +2950,7 @@ input, select, textarea {
 				object-fit: cover;
 				object-position: center;
 				width: 100%;
+				box-shadow: 0 5px 9px 0 rgb(0 0 0 / 20%), 0 7px 22px 0 rgb(0 0 0 / 19%);
 			}
 
 			.gallery a.landscape {
